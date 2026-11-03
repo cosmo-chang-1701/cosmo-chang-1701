@@ -26,7 +26,7 @@ I am a **Software Architect & Product Engineer** with over 10 years of experienc
 - 🧠 **Agentic Systems & MCP**: Designing autonomous developer tooling, spec-driven code audits, and multi-agent coordination pipelines leveraging Model Context Protocol (MCP) and LLMs.
 - 📈 **Quantitative Finance & Risk**: Architecting real-time risk advisory platforms for options investors with Black-Scholes-Merton (BSM) models, dealer gamma exposure (GEX), and automated SEC EDGAR parsing.
 - 🌐 **Interactive 3D & WebXR**: Pushing web browser graphics to the limits with React Three Fiber, custom shaders, and GPGPU aerodynamic flow simulations.
-- 🎮 **Open Source & Community Ecosystem**: Author of the community-standard Star Citizen Traditional Chinese localization pack and survival manuals read by thousands of galactic explorers.
+- 🎮 **Open Source & Community Ecosystem**: Creator and maintainer of the Star Citizen Traditional Chinese localization pack and player onboarding survival guides for the community.
 
 ---
 
