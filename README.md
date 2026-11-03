@@ -2,8 +2,8 @@
 
 # Hi there, I'm Cosmo Chang 👋
 
-### **Software Architect & Product Engineer**
-**Agentic Workflows (MCP) · Quant Analytics · Modern Full-Stack & WebXR**
+### **Software Builder**
+**Architecting Agentic Workflows · FinTech & Analytics Tooling**
 
 [![Status: Available](https://img.shields.io/badge/Status-Open_for_Opportunities-success?style=flat-square&logo=git&logoColor=white)](mailto:cosmo.chang1701@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-cosmo--chang--1701-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cosmo-chang-1701)
@@ -12,7 +12,7 @@
 <br/>
 
 <a href="https://github.com/cosmo-chang-1701">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=10%2B+Years+Bridging+Product+Design+%26+System+Architecture;Pioneering+Agentic+Workflows+%26+Model+Context+Protocol;Architecting+Quantitative+Options+Risk+Engines;Crafting+Immersive+WebXR+%26+GPGPU+Simulations" alt="Typing Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+Agentic+Workflows+%26+Developer+Tooling;Architecting+Multi-Agent+Systems+%26+MCP+Pipelines;Developing+FinTech+%26+Risk+Analytics+Tools;Creating+Interactive+Web+%26+Data+Applications" alt="Typing Headline" />
 </a>
 
 </div>
@@ -21,12 +21,12 @@
 
 ### 🚀 About Me
 
-I am a **Software Architect & Product Engineer** with over 10 years of experience turning complex, mission-critical domains into intuitive, high-performance digital products. My engineering practice bridges the gap between end-user experience, distributed systems, and modern AI automation.
+I am a **Software Builder** focused on **architecting agentic workflows** and developing practical **FinTech & analytics tooling**. My work centers on building end-to-end software that combines LLM agent automation, quantitative data analysis, and clean web engineering.
 
 - 🧠 **Agentic Systems & MCP**: Designing autonomous developer tooling, spec-driven code audits, and multi-agent coordination pipelines leveraging Model Context Protocol (MCP) and LLMs.
-- 📈 **Quantitative Finance & Risk**: Architecting real-time risk advisory platforms for options investors with Black-Scholes-Merton (BSM) models, dealer gamma exposure (GEX), and automated SEC EDGAR parsing.
-- 🌐 **Interactive 3D & WebXR**: Pushing web browser graphics to the limits with React Three Fiber, custom shaders, and GPGPU aerodynamic flow simulations.
-- 🎮 **Open Source & Community Ecosystem**: Creator and maintainer of the Star Citizen Traditional Chinese localization pack and player onboarding survival guides for the community.
+- 📈 **FinTech & Analytics Tooling**: Developing risk analytics and decision-support tools for options investors with Black-Scholes-Merton (BSM) models, dealer gamma exposure (GEX), and automated SEC EDGAR parsing.
+- 🌐 **Interactive Web & WebXR**: Developing 3D web applications and interactive simulations using React Three Fiber, custom shaders, and GPGPU particle physics.
+- 🎮 **Community Ecosystem & Localization**: Maintaining the Star Citizen Traditional Chinese localization pack and player onboarding survival guides for the gaming community.
 
 ---
 
@@ -73,7 +73,7 @@ I am a **Software Architect & Product Engineer** with over 10 years of experienc
 </details>
 
 <details open>
-<summary><b>Quant & Financial Analytics</b></summary>
+<summary><b>FinTech & Analytics Tooling</b></summary>
 <br/>
 
 ![Black-Scholes-Merton](https://img.shields.io/badge/Pricing-BSM_Model-1E3A8A?style=flat-square)
@@ -119,7 +119,7 @@ I am a **Software Architect & Product Engineer** with over 10 years of experienc
 
 ### 📬 Connect & Collaborate
 
-Whether you're exploring autonomous AI systems, quantitative finance architectures, or high-performance 3D web applications, feel free to reach out!
+Whether you're exploring agentic workflows, FinTech and analytics tooling, or modern web applications, feel free to reach out!
 
 <div align="center">
 
