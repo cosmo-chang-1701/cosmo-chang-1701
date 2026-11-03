@@ -100,14 +100,20 @@ I am a **Software Architect & Product Engineer** with over 10 years of experienc
 
 ### 📊 Live GitHub Analytics
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=cosmo-chang-1701&show_icons=true&theme=tokyonight&hide_border=true" alt="Cosmo's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=cosmo-chang-1701&theme=tokyonight&hide_border=true" alt="Cosmo's GitHub Streak" />
-</div>
+<p align="center">
+  <a href="https://github.com/cosmo-chang-1701">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=cosmo-chang-1701&show_icons=true&theme=tokyonight&hide_border=true" alt="Cosmo's GitHub Stats" />
+  </a>
+  <a href="https://github.com/cosmo-chang-1701">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cosmo-chang-1701&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cosmo-chang-1701&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/cosmo-chang-1701">
+    <img height="180" src="https://streak-stats.demolab.com/?user=cosmo-chang-1701&theme=tokyonight&hide_border=true" alt="Cosmo's GitHub Streak" />
+  </a>
+</p>
 
 ---
 
